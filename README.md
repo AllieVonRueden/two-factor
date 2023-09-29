@@ -10,4 +10,4 @@ Can now be installed using the NuGet Package Manager:
 ```
 PM> Install-Package TwoFactor
 ```
- 
+  
